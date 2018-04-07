@@ -1,0 +1,5 @@
+### OSx files
+.DS_Store
+
+### Ipython files
+.ipynb_checkpoints
