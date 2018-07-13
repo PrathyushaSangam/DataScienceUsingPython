@@ -1,0 +1,11 @@
+Model,Run,Test_RMSE
+model 1,1,0.66873
+model 2,1,0.72465
+model 1,2,0.685466
+model 2,2,0.688979
+model 1,3,0.674283
+model 2,3,0.731347
+model 1,4,0.669011
+model 2,4,0.71285
+model 1,5,0.659642
+model 2,5,0.715843
